@@ -1,7 +1,8 @@
 # test
 file:///C:/Users/seepa/Desktop/siem/The%20Complete%20Guide%20to%20SIEM%20_%20DNIF.html
 file:///C:/Users/seepa/Desktop/siem/Best%20Practices%20for%20SIEM%20Implementation_git1.html
-
+https://html.scirp.org/file/_3-7800617_1.htm
+https://www.scirp.org/html/3-7800617_97094.htm
 Section
 
 Type
